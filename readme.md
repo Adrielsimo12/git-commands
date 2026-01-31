@@ -59,3 +59,8 @@ Liste des commandes git
 
 - Permet de supprimer un commit
 - Permet de revenir à un commit défini par son identifiant
+- Attention à utiliser avec précaution
+
+## git diff
+
+- Permet de comparer 2 commits
