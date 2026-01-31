@@ -64,3 +64,16 @@ Liste des commandes git
 ## git diff
 
 - Permet de comparer 2 commits
+
+## git log
+
+- Permet de lister les modifications
+
+## git branch
+
+- Permet de creer une branche
+
+## git checkout
+
+- Permet de changer de branche
+- Avec git checkout -b creer et ce déplace
