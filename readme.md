@@ -37,3 +37,7 @@ Liste des commandes git
 - Permet de passer d'une branche à une autre
 - Permet de se déplacer d'une branche à une autre
 - Avec l'option -b checkout crée la branche si elle n'existe pas
+
+## git pull
+
+- Permet de récupérer les modifications distantes
