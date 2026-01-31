@@ -51,3 +51,11 @@ Liste des commandes git
 ## git merge
 
 - Permet de récupérer les modifications de la branche fille
+- Permet de fusionner le contenu de 2 branches
+- l'ordre des commit n'est pas toujours sauvegaarder
+- Pour conserver l'ordre des commit il faut utiliser l'option --no-ff
+
+## git reset --hard id
+
+- Permet de supprimer un commit
+- Permet de revenir à un commit défini par son identifiant
